@@ -214,9 +214,3 @@ public class CRUDAtor {
         entrada.nextLine();
     }
 }
-git init
-git add .
-git commit -m "Subindo projeto finalizado"
-git branch -M main
-git remote add origin https://github.com/GHolanda14/trabalho2-persistencia.git
-git push -u origin main
